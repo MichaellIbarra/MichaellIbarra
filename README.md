@@ -5,7 +5,7 @@
 
 ## <picture><img src = "/assets/img/about_me.gif" width = 50px></picture> **About Me**
 
-- 📫 How to reach me **crack2217@gmail.com**
+- 📫 How to reach me **crak2217@gmail.com**
 - 🎓 Student System Analyst in 
 - 💻 Developer Full Stack and Hacking Ethical
 

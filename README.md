@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Michaell Ibarra</h1>
+<h1 align="center"><b>Hi, I'm Matichelo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 📫 How to reach me **michaell.ibarra@vallegrande.edu.pe**
+<br>
 
-###
 
-<h1 align="center">Fullstack Web Developer 💻🚀</h1>
-<!-- 
-<p>Hi, cation.</p> -->
+## <picture><img src = "/assets/img/about_me.gif" width = 50px></picture> **About Me**
 
+- 📫 How to reach me **crack2217@gmail.com**
+- 🎓 Student System Analyst in 
+- 💻 Developer Full Stack and Hacking Ethical
+
+<img src="/assets/img/line.gif"><br><br>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript"  />
@@ -55,7 +61,9 @@
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" title="Amazon Web Services" />
 </div>
 
-###
+<img src="/assets/img/line.gif"><br><br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michaelll-ibarra-martinez-a1884a274/" target="_blank">
@@ -69,19 +77,17 @@
   
 </div>
 
-###
+<img src="/assets/img/line.gif"><br><br>
 
-<div align="center">
-  <img align="center" height="250" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.gif"  />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-###
+<p align="center">
+  <a href="https://github.com/MichaellIbarra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MichaellIbarra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/MichaellIbarra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaellIbarra&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaellIbarra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MichaellIbarra&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
-
-###

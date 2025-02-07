@@ -84,6 +84,9 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
 <img src="/assets/img/line.gif"><br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>

@@ -82,7 +82,11 @@
 ## <b> Recent Activity</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <!--RECENT_ACTIVITY:start-->
-
+1. 💬 Commented on [#5](https://github.com/xtekky/deepseek4free/issues/5#issuecomment-2630042801) in [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free)<br>
+2. 💬 Commented on [#5](https://github.com/xtekky/deepseek4free/issues/5#issuecomment-2629922094) in [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free)<br>
+3. ✔️ Closed issue [#1](https://github.com/xtekky/deepseek4free/issues/1) in [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free)<br>
+4. 🔱 Forked [MichaellIbarra/deepseek4free](https://github.com/MichaellIbarra/deepseek4free) from [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free)<br>
+5. ❗️ Opened issue [#1](https://github.com/xtekky/deepseek4free/issues/1) in [xtekky/deepseek4free](https://github.com/xtekky/deepseek4free)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <img src="/assets/img/line.gif"><br><br>

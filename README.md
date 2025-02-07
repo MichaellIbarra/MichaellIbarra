@@ -79,7 +79,11 @@
 
 <img src="/assets/img/line.gif"><br><br>
 
+## <b> Recent Activity</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
 
 <img src="/assets/img/line.gif"><br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>

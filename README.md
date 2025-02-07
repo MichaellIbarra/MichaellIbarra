@@ -63,7 +63,7 @@
 
 <img src="/assets/img/line.gif"><br><br>
 
-## <b> Let's Connect..!</b><img src="https://s4.ezgif.com/tmp/ezgif-45df026d4d993.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/michaelll-ibarra-martinez-a1884a274/" target="_blank">

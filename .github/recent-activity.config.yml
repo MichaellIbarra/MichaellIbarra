@@ -1,4 +1,0 @@
-fetch: 10
-ignored_events:
-  - CreateEvent
-  - ForkEvent

@@ -82,15 +82,15 @@
 ## <b> Recent Activity</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MichaellIbarra/introduction-angular](https://github.com/MichaellIbarra/introduction-angular)<br>
-2. 🔱 Forked [MichaellIbarra/ValleGrande_chatbot](https://github.com/MichaellIbarra/ValleGrande_chatbot) from [12Brk12/ValleGrande_chatbot](https://github.com/12Brk12/ValleGrande_chatbot)<br>
-3. ⬆️ Pushed 1 commit(s) to [MichaellIbarra/ggg](https://github.com/MichaellIbarra/ggg)<br>
-4. 📔 Created new repository [MichaellIbarra/ggg](https://github.com/MichaellIbarra/ggg)<br>
-5. ⬆️ Pushed 1 commit(s) to [MichaellIbarra/dd](https://github.com/MichaellIbarra/dd)<br>
+1. ⬆️ Pushed 1 commit(s) to [MichaellIbarra/MichaellIbarra.github.io](https://github.com/MichaellIbarra/MichaellIbarra.github.io)<br>
+2. 📔 Created new repository [MichaellIbarra/MichaellIbarra.github.io](https://github.com/MichaellIbarra/MichaellIbarra.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [MichaellIbarra/introduction-angular](https://github.com/MichaellIbarra/introduction-angular)<br>
+4. 🔱 Forked [MichaellIbarra/ValleGrande_chatbot](https://github.com/MichaellIbarra/ValleGrande_chatbot) from [12Brk12/ValleGrande_chatbot](https://github.com/12Brk12/ValleGrande_chatbot)<br>
+5. ⬆️ Pushed 1 commit(s) to [MichaellIbarra/ggg](https://github.com/MichaellIbarra/ggg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 6th, 2025, 1:41:54 AM
+Last Updated: Wednesday, August 6th, 2025, 12:41:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img src="/assets/img/line.gif"><br><br>

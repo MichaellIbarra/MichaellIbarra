@@ -82,15 +82,15 @@
 ## <b> Recent Activity</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/front-school](https://github.com/MichaellIbarra/front-school)<br>
+1. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-spring](https://github.com/MichaellIbarra/learn-spring)<br>
 2. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/front-school](https://github.com/MichaellIbarra/front-school)<br>
 3. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/front-school](https://github.com/MichaellIbarra/front-school)<br>
 4. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/front-school](https://github.com/MichaellIbarra/front-school)<br>
-5. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
+5. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/front-school](https://github.com/MichaellIbarra/front-school)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 21st, 2025, 1:19:49 AM
+Last Updated: Tuesday, October 21st, 2025, 12:37:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img src="/assets/img/line.gif"><br><br>

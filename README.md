@@ -82,15 +82,15 @@
 ## <b> Recent Activity</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
-2. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/microservices-webflux-kafka](https://github.com/MichaellIbarra/microservices-webflux-kafka)<br>
-3. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-git](https://github.com/MichaellIbarra/learn-git)<br>
-4. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
-5. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-docker](https://github.com/MichaellIbarra/learn-docker)<br>
+1. ⭐ Starred [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
+2. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
+3. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/microservices-webflux-kafka](https://github.com/MichaellIbarra/microservices-webflux-kafka)<br>
+4. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-git](https://github.com/MichaellIbarra/learn-git)<br>
+5. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 18th, 2025, 1:19:15 PM
+Last Updated: Wednesday, November 19th, 2025, 1:21:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img src="/assets/img/line.gif"><br><br>

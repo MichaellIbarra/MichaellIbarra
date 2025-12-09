@@ -99,9 +99,6 @@ Last Updated: Tuesday, December 9th, 2025, 1:23:57 PM
 
 <p align="center">
   <a href="https://github.com/MichaellIbarra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaellIbarra&theme=dark&show_icons=true"/>
-  </a>
-  <a href="https://github.com/MichaellIbarra">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaellIbarra&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>

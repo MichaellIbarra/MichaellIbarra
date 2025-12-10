@@ -1,11 +1,8 @@
 name: Update Recent Activity
 
 on:
-  push:
-    branches:
-      - develop
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -30,7 +27,7 @@ jobs:
       - name: Generate recent activity
         uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }} # << OBLIGATORIO
 
       - name: Push changes
         env:

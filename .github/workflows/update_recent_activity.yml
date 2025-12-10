@@ -1,8 +1,11 @@
 name: Update Recent Activity
 
 on:
+  push:
+    branches:
+      - develop
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +14,10 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }} # << IMPORTANTE
 
       - name: Set up Git
         env:
@@ -21,6 +27,15 @@ jobs:
           git config --global user.name "${GIT_USER_NAME}"
           git config --global user.email "${GIT_USER_EMAIL}"
 
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Generate recent activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          git add .
+          git commit -m "✨ Update recent activity" || echo "No changes to commit"
+          git push origin main

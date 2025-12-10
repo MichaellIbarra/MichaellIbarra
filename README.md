@@ -82,15 +82,15 @@
 ## <b> Recent Activity</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MichaellIbarra/MichaellIbarra](https://github.com/MichaellIbarra/MichaellIbarra)<br>
-2. ⭐ Starred [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
-3. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
-4. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/microservices-webflux-kafka](https://github.com/MichaellIbarra/microservices-webflux-kafka)<br>
-5. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-git](https://github.com/MichaellIbarra/learn-git)<br>
+1. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/learn-software-engineering](https://github.com/MichaellIbarra/learn-software-engineering)<br>
+2. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/MichaellIbarra](https://github.com/MichaellIbarra/MichaellIbarra)<br>
+3. ⬆️ Pushed undefined commit(s) to [MichaellIbarra/MichaellIbarra](https://github.com/MichaellIbarra/MichaellIbarra)<br>
+4. ⭐ Starred [MichaellIbarra/MichaellIbarra](https://github.com/MichaellIbarra/MichaellIbarra)<br>
+5. ⭐ Starred [MichaellIbarra/learn-dapps](https://github.com/MichaellIbarra/learn-dapps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 9th, 2025, 1:23:57 PM
+Last Updated: Wednesday, December 10th, 2025, 1:26:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <img src="/assets/img/line.gif"><br><br>

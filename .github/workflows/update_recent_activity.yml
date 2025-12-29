@@ -1,43 +1,43 @@
-name: Update Recent Activity
+# name: Update Recent Activity
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 */6 * * *"
+#   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update Profile README
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: Update Profile README
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}  # TOKEN REAL
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v3
+#         with:
+#           token: ${{ secrets.PERSONAL_TOKEN }}  # TOKEN REAL
 
-      - name: Set up Git
-        env:
-          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
-          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
-        run: |
-          git config --global user.name "${GIT_USER_NAME}"
-          git config --global user.email "${GIT_USER_EMAIL}"
+#       - name: Set up Git
+#         env:
+#           GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+#           GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+#         run: |
+#           git config --global user.name "${GIT_USER_NAME}"
+#           git config --global user.email "${GIT_USER_EMAIL}"
 
-      - name: Generate recent activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # OBLIGATORIO PARA EVITAR EL BOT
+#       - name: Generate recent activity
+#         uses: Readme-Workflows/recent-activity@v2.4.1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # OBLIGATORIO PARA EVITAR EL BOT
 
-      - name: Push changes
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          git add .
-          git commit -m "✨ Update recent activity" || echo "No changes to commit"
+#       - name: Push changes
+#         env:
+#           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+#         run: |
+#           git add .
+#           git commit -m "✨ Update recent activity" || echo "No changes to commit"
 
-          # 🔥 FORZAR EL AUTOR PARA QUE NO APAREZCA github-actions[bot]
-          git config user.name "${GIT_USER_NAME}"
-          git config user.email "${GIT_USER_EMAIL}"
+#           # 🔥 FORZAR EL AUTOR PARA QUE NO APAREZCA github-actions[bot]
+#           git config user.name "${GIT_USER_NAME}"
+#           git config user.email "${GIT_USER_EMAIL}"
 
-          git push https://x-access-token:${PERSONAL_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+#           git push https://x-access-token:${PERSONAL_TOKEN}@github.com/${{ github.repository }}.git HEAD:main

@@ -6,7 +6,7 @@
 ## <picture><img src = "/assets/img/about_me.gif" width = 50px></picture> **About Me**
 
 - 📫 How to reach me **michaell.ibarra@vallegrande.edu.pe**
-- 🎓 Student System Analyst in 
+- 🎓 System Analyst in 
 - 💻 Developer Full Stack and Hacking Ethical
 
 <img src="/assets/img/line.gif"><br><br>
